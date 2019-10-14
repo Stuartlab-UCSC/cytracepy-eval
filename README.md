@@ -1,7 +1,7 @@
 # cytracepy-eval
 Scripts that were used to investigate the behaviour of the cytracepy distance function.
 
-The presentation that was given can be found [here] (https://docs.google.com/presentation/d/1iR3xLo0DC_267GFLQGH5piWyICxV7LDDyKX42GptoQ8/edit?usp=sharing)
+The presentation that was given can be found [here](https://docs.google.com/presentation/d/1iR3xLo0DC_267GFLQGH5piWyICxV7LDDyKX42GptoQ8/edit?usp=sharing/).
 
 This work was done with high velocity and therefore organization was an afterthought. If you are interested or tasked with rerunning this analysis please contact Duncan McColl, a former employee of the stuart lab.
 
