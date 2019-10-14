@@ -9,4 +9,4 @@ In silico data was derived from the prossttYY trajectory model and given to us i
 
 For this experiment, sub samples of bifurcated trees were created and compared (see presentation for clearer explanation). That data can be found in this repo in data/13_data data/3_data.
 
-The general idea and set up was to leverage the trajectory docker containers and bash to run off all the experiments. You can see the scripts in the /src directory that fire off the dockers.
+The general idea and set up was to leverage the trajectory docker containers and bash to run off all the experiments. You can see the scripts in the /src directory that fire off the dockers. Use a python virtual env and the requirments.txt file to run the standalone python scripts.
